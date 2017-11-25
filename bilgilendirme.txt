@@ -1,0 +1,3 @@
+yönetim paneli giriþ bilgileri:
+admin
+12345
